@@ -2,7 +2,7 @@
 Challenge
 
 
-This repositry contain two Jupyter notebooks as per the deliverables for the challenge using NoSQL. 
+This repositry contains two Jupyter notebooks as per the deliverables for the challenge using NoSQL. 
 The first NoSQL_setup_starter brings in the data from the establishments JSON in the resources directory. 
 The data is then prepared as per the requirements.
 The second notebook NoSQL_analysis_starter performs the exploratory analysis according to the challenge requirements.
